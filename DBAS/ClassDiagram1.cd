@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DBAS.Classes.Account">
+    <Position X="8" Y="4.75" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="DBAS.Classes.Account.RegistryResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\Account.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAQAAAAAAAAGAQAAAAAAAAA=</HashCode>
+      <FileName>Classes\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Classes.DatatoExcel" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DatatoExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Classes.ListViewTool">
+    <Position X="1" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ListViewTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Classes.load_excel" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\load_excel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Classes.load_txt" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\load_txt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Classes.NavTreeTool">
+    <Position X="4.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\NavTreeTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Classes.Prb">
+    <Position X="0.5" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\Prb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Program" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.MainWindow" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwSAIyECADgCAABEBkKAANhWACYCAQAUEDgBAYQBBVE=</HashCode>
+      <FileName>UI\MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.C2I3Panel" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAADQAAICAAgACAAQIAAAAAEACAAAQAAI=</HashCode>
+      <FileName>UI\C2I3Panel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.C2IPanel" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABQAAACAAgACAAQIAAAAAEACAAAQAAA=</HashCode>
+      <FileName>UI\C2IPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.download" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACBAABAQAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>UI\download.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.import" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQQACABABAQAACAAAACAAAoAAAAEHAAAgAAAAA=</HashCode>
+      <FileName>UI\import.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.SigninWindow" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEABAAAACAAAACAAwAAAgAAAgCAAoEAAA=</HashCode>
+      <FileName>UI\SigninWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.SignupWindow" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAEABAAAACQAAASAAwAAAgAAAgAAAgEAAA=</HashCode>
+      <FileName>UI\SignupWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.tbC2I_research" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAASAAgoAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>UI\tbC2I_research.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.tbCell_research" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAgABAQAACAAAACAMg4AAAAgHAOAAAAAAA=</HashCode>
+      <FileName>UI\tbCell_research.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.tbKPI_research" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAACAgABASAACAAAICAAAYAAAAAGAAAAQAgAA=</HashCode>
+      <FileName>UI\tbKPI_research.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBAS.UI.tbPRB_research" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAgABASAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>UI\tbPRB_research.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

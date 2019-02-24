@@ -1,0 +1,16 @@
+D:\C#\DBAS\DBAS\DBAS\bin\Debug\DBAS.exe.config
+D:\C#\DBAS\DBAS\DBAS\bin\Debug\DBAS.exe
+D:\C#\DBAS\DBAS\DBAS\bin\Debug\DBAS.pdb
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.MainWindow.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.Properties.Resources.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.csproj.GenerateResource.Cache
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.exe
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.pdb
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.UI.SigninWindow.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.UI.SignupWindow.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.UI.C2IPanel.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.UI.C2I3Panel.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.csproj.ResolveComReference.cache
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.UI.tbCell_research.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.UI.download.resources
+D:\C#\DBAS\DBAS\DBAS\obj\Debug\DBAS.csprojResolveAssemblyReference.cache
